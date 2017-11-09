@@ -22,6 +22,9 @@ Bug fixes:
   Fixes `issue 37 <https://github.com/plone/plone.app.contenttypes/issues/37>`_.
   [maurits]
 
+- check if a contentrule exists before assignment on migration
+  [MrTango]
+
 
 1.4.5 (2017-10-06)
 ------------------
